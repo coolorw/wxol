@@ -1,0 +1,7 @@
+[bypass_all]
+
+[proxy_list]
+(^|\.)gameabc2\.com$
+(^|\.)ymnsdk\.com$
+(^|\.)appsflyer\.com$
+(^|\.)facebook\.com$
